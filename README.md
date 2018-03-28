@@ -7,6 +7,7 @@ You can read more about the license <a href="https://wrapbootstrap.com/theme/ace
 <h2>Twitter bootstrap 3 admin template</h2>
 
 see example http://ace.jeka.by/
+中文示例 http://www.daimajiayuan.com/download/201312/yulan/ace/index.html
 
 
 Try:
